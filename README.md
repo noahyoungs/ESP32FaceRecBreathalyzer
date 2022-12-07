@@ -12,3 +12,4 @@ How to use:
 Find the ip address of the esp32 through the serial connection to the esp32. Go to this ip address in your web browser. Enable face recognition and face detection using the web UI. Use the enroll face button to enroll 5 faces per user. Once the faces are recognized, the LED will flash once, and the user has 5 seconds to blow into the MQ3 sensor. Then, the LED will flash again, and an ID representing the recognized face and the sensor value will be sent to the server via HTTP request. 
 
 
+![prototype image](https://github.com/noahyoungs/ESP32FaceRecBreathalyzer/blob/main/image.jpeg?raw=true)
